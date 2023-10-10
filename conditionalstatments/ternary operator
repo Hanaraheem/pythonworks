@@ -1,0 +1,42 @@
+#ternary operator-we can minimize the program into 1 statement.
+num=10
+result="+ve" if num>0 else "-ve" #if statement into one statement
+print(result)
+
+#program to find even number using ternary operator 
+num=20
+result="even" if num%2 else "odd"
+print(result)
+
+#program to find greater number using ternary operator
+num1=10
+num2=20
+result="greater" if num1>num2 else "num2 is greater"
+print(result)
+
+# num1=5
+# if (num1+1):
+#     print()
+# else:
+# print(num1-5)
+
+num1=5
+result=num1+1 if num1>5 else "lesser than 5"
+print(result)
+#if num=5 
+
+num=int("enter the number")
+result=num+1 if num>5 else num-1 if num<5 else 5
+print(result)
+
+
+# if n1>num2
+# print(n1-n2)
+
+num1=30
+num2=20
+result=num1-num2 if num1>num2 else num2-num1
+print(result)
+
+#if we wait 0 to be positive
+result= "+-ve"if num>0 else "-ve" if num<0 else "0"

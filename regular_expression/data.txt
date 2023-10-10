@@ -1,0 +1,13 @@
+2223334441 hai all am tom tom@gmail.com my contact
+hai all am jim jim2@gmail.com 2223334441 my contact
+hai all am jhope jhope2@gmail.com 2223334443 my contact
+hai all am deo my contact 2223334421 deo@gmail.com
+
+
+
+
+
+
+    #questions
+#1.read mails into mail id
+#2.read phno into phno
